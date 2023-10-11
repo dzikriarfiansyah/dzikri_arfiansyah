@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dzikri</string>
+    <string name="hai">Hai, Dzikri Arfiansyah\nMau Belajar Apa hari ini!</string>
+    <string name="membaca">Membaca dimana pun\ndan Kapan pun.</string>
+    <string name="sub_title">Temukan bacaan terbaik tentang\nBeragam topik menarik. </string>
+    <string name="gratis">Baca Gratis di Mosvont Academy</string>
+    <string name="kategori">Popular Categories</string>
+    <string name="cerahkan">Cerahkan duniamu dengan\nMembaca beberapa halaman\nserta Sebarkan Aplikasi ini</string>
+    <string name="mulai">Mulai Perjalananmu</string>
+    <string name="sub_mulai">Saatnya untuk memulai perjalananmu\nmenuju pendidikan yang lebih baik\nbersama Mosvont Academy.</string>
+    <string name="Dokumen">Dokumen yang disimpan</string>
+    <string name="accepted">Your Register has been\nAccepted</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
